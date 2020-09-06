@@ -11,3 +11,8 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 recorder: !include recorder.yaml
 scene: !include scenes.yaml
+
+google:
+  client_id: !secret GOOGLE_CLIENT_ID
+  client_secret: !secret GOOGLE_CLIENT_SECRET
+  track_new_calendar: false

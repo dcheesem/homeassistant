@@ -7,6 +7,8 @@
 !*.md
 !custom_components/
 !custom_components/**/*
+!www/
+!www/**/*
 
 # Ignore folders.
 .storage
@@ -17,3 +19,4 @@
 ip_bans.yaml
 secrets.yaml
 known_devices.yaml
+google_calendars.yaml
