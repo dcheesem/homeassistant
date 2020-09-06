@@ -1,2 +1,2 @@
 # homeassistant
-Home assistant configuration
+Home assistant configuration - for backup / updating HA instance
